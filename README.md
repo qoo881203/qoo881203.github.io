@@ -1,4 +1,4 @@
-# 林佳緯 (Chia-Wei Lin)
+# 林佳緯 (Jia-Wei Lin)
 
 <p align="center">
   <b>環境科技治理 | 物聯網應用 | AI 數據分析</b>
